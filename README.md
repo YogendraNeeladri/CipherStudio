@@ -1,3 +1,4 @@
+
 # CipherStudio - Browser-Based React IDE
 
 A modern, browser-based React IDE that allows users to create, edit, and run React projects directly in their browser. Built with Next.js, Monaco Editor, and Sandpack.
@@ -175,3 +176,6 @@ This project is licensed under the MIT License.
 - [Sandpack](https://sandpack.codesandbox.io/) - Code execution environment
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
+=======
+# CipherStudio
+>>>>>>> ddfcb639d45e506ab3a98b944203d60c3c59cdfc
